@@ -1,0 +1,33 @@
+{
+  "name": "stockmarketchartwebsocket4fcc",
+  "version": "1.0.0",
+  "description": "stock market charts with multiuser websocket",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.81.0",
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthiasLiszt/stockmarketchartwebsocket4fcc.git"
+  },
+  "keywords": [
+    "stockmarket",
+    "charts",
+    "d3",
+    "websocket",
+    "socket.io"
+  ],
+  "author": "Matthias Liszt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthiasLiszt/stockmarketchartwebsocket4fcc/issues"
+  },
+  "homepage": "https://github.com/MatthiasLiszt/stockmarketchartwebsocket4fcc#readme"
+}
